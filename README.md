@@ -1,1 +1,1 @@
-# battle-bots
+I will be showing you battle bots and facts and how to build b-bots
